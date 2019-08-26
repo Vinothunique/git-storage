@@ -1,4 +1,4 @@
 print("hi")
-prin("hello")
-
+print("hello")
+clear("hai")
 
